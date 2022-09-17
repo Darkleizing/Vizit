@@ -17,3 +17,8 @@
     "flowbite": "^1.4.7"
   }
 }
+{
+  "scripts": {
+    "build":  "build --output public"
+  }
+}
